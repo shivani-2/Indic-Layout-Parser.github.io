@@ -1,1 +1,0 @@
-# Indic-Layout-Parser.github.io
